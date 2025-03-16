@@ -22,4 +22,4 @@ DBMS: PostgreSQL
 포트폴리오 비중 조회: 로그인한 계좌에서 종목별 비중이 아닌 보유 종목들의 섹터별 비중을 조회 <br>
 
 ### 개발자 정보
-e-mail: max20020203@gmail.com
+e-mail: newalfo1006@gmail.com
